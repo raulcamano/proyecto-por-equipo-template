@@ -1,0 +1,21 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.h6{
+  color: blue;
+
+}
+
+.person-girl{
+  width: 30%;
+  height: 478px;
+  background: url(../img/person-girl.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top:0;
+  right: 0;
+  z-index: -1;
+  margin: 100px;
+}
+
