@@ -1,9 +1,8 @@
-body{
+.body{
     font-family: 'Inter', sans-serif;
 }
-.h6{
+.container-inicio{
   color: blue;
-
 }
 
 .person-girl{
