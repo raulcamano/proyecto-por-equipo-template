@@ -1,10 +1,13 @@
 .body{
     font-family: 'Inter', sans-serif;
 }
+.header {
+  min-height: 800px;
+  margin-bottom: 120px;
+}
 .container-inicio{
   color: blue;
 }
-
 .person-girl{
   width: 30%;
   height: 478px;
@@ -17,4 +20,25 @@
   z-index: -1;
   margin: 100px;
 }
-
+.second-part{
+  min-height: 916px;
+  margin-bottom: 120px;
+}
+.push{
+  padding: 1em;
+}
+.text-two{
+  padding-block: 3em;
+}
+.text-three{
+  padding-block: 3em;
+}
+.randy{
+  padding-bottom: 10em;
+}
+.push2{
+  padding: 7px;
+}
+sp{
+  padding-left: 3em;
+}
