@@ -1,10 +1,13 @@
 .body{
     font-family: 'Inter', sans-serif;
 }
+.header {
+  min-height: 800px;
+  margin-bottom: 120px;
+}
 .container-inicio{
   color: blue;
 }
-
 .person-girl{
   width: 30%;
   height: 478px;
@@ -17,4 +20,36 @@
   z-index: -1;
   margin: 100px;
 }
-
+.second-part{
+  min-height: 916px;
+  margin-bottom: 120px;
+}
+.push{
+  padding: 1em;
+}
+.text-two{
+  padding-block: 3em;
+}
+.text-three{
+  padding-block: 3em;
+}
+.randy{
+  padding-bottom: 10em;
+}
+.push2{
+  padding: 7px;
+}
+.tb{
+  padding-left: 3em;
+}
+.pink{
+  background: url(../img/pink-back.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 299px;
+  width: 92%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
