@@ -39,6 +39,17 @@
 .push2{
   padding: 7px;
 }
-sp{
+.tb{
   padding-left: 3em;
+}
+.pink{
+  background: url(../img/pink-back.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 299px;
+  width: 92%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
 }
