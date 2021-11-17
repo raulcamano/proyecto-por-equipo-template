@@ -114,3 +114,17 @@
   position: relative;
   top: 1120px;
 }
+.titulo{
+  text-align: center;
+}
+.final{
+  font-size: 2em;
+  text-align: center;
+}
+.textual{
+  text-align: center;
+}
+.imagenes-finales{
+  padding: 8em;
+  padding-left: 25em;
+}
