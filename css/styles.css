@@ -53,3 +53,64 @@
   top: 0;
   z-index: -1;
 }
+.text-p{
+  position: absolute;
+  right: 350px;
+  top: 1150px;
+
+}
+.imagen-p1{
+  background: url(../img/imagenes.jpg);
+  background-repeat: no-repeat;
+  position: relative;
+  width: 90%;
+  height: 1400px;
+  right: -85px;
+  top: 670px;
+  margin: 10px;
+}
+.btn-lg {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+  position: absolute;
+  right: 180px;
+  width: 30%;
+  height: 73px;
+  top: 3350px;
+  opacity: 60%;
+  color: #212529;
+  background-color: #dee2e6;
+  border-color: #e9ecef;
+}
+.business{
+  background: url(../img/img1.jpg);
+  background-repeat: no-repeat;
+  position: relative;
+  width: 361px;
+  height: 320px;
+  top: 1000px;
+  right: -100px;
+}
+.financial{
+  background: url(../img/imgs.jpg);
+  background-repeat: no-repeat;
+  position: relative;
+  width: 361px;
+  height: 320px;
+  top: 683px;
+  right: -500px;
+}
+.market{
+  background: url(../img/img3.jpg);
+  background-repeat: no-repeat;
+  position: relative;
+  width: 361px;
+  height: 320px;
+  top: 362px;
+  right: -900px;
+}
+.p0{
+  position: relative;
+  top: 1120px;
+}
